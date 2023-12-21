@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-###📫 How to reach me: https://rohullah.dev
+📫 How to reach me: https://rohullah.dev
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
